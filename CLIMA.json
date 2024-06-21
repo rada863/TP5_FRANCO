@@ -1,0 +1,48 @@
+
+{
+  "location": {
+    "name": "Carhue",
+    "region": "Buenos Aires",
+    "country": "Argentina",
+    "lat": -37.18,
+    "lon": -62.73,
+    "tz_id": "America/Argentina/Buenos_Aires",
+    "localtime_epoch": 1719007683,
+    "localtime": "2024-06-21 19:08"
+  },
+  "current": {
+    "last_updated_epoch": 1719007200,
+    "last_updated": "2024-06-21 19:00",
+    "temp_c": 9.9,
+    "temp_f": 49.9,
+    "is_day": 0,
+    "condition": {
+      "text": "Mist",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+      "code": 1030
+    },
+    "wind_mph": 4,
+    "wind_kph": 6.5,
+    "wind_degree": 108,
+    "wind_dir": "ESE",
+    "pressure_mb": 1007,
+    "pressure_in": 29.73,
+    "precip_mm": 0.02,
+    "precip_in": 0,
+    "humidity": 97,
+    "cloud": 100,
+    "feelslike_c": 9.3,
+    "feelslike_f": 48.7,
+    "windchill_c": 9.3,
+    "windchill_f": 48.7,
+    "heatindex_c": 9.9,
+    "heatindex_f": 49.9,
+    "dewpoint_c": 9.4,
+    "dewpoint_f": 49,
+    "vis_km": 2,
+    "vis_miles": 1,
+    "uv": 1,
+    "gust_mph": 6.3,
+    "gust_kph": 10.1
+  }
+}
